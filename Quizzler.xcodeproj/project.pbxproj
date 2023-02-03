@@ -13,6 +13,7 @@
 		18F3EEA4298BBED80049A2AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18F3EEA2298BBED80049A2AA /* Main.storyboard */; };
 		18F3EEA6298BBED80049A2AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18F3EEA5298BBED80049A2AA /* Assets.xcassets */; };
 		18F3EEA9298BBED80049A2AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18F3EEA7298BBED80049A2AA /* LaunchScreen.storyboard */; };
+		18FA2BCD298D3164005569EC /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FA2BCC298D3164005569EC /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		18F3EEA5298BBED80049A2AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18F3EEA8298BBED80049A2AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18F3EEAA298BBED80049A2AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18FA2BCC298D3164005569EC /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				18F3EE9C298BBED80049A2AA /* AppDelegate.swift */,
 				18F3EE9E298BBED80049A2AA /* SceneDelegate.swift */,
 				18F3EEA0298BBED80049A2AA /* ViewController.swift */,
+				18FA2BCC298D3164005569EC /* Question.swift */,
 				18F3EEA2298BBED80049A2AA /* Main.storyboard */,
 				18F3EEA5298BBED80049A2AA /* Assets.xcassets */,
 				18F3EEA7298BBED80049A2AA /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18F3EEA1298BBED80049A2AA /* ViewController.swift in Sources */,
+				18FA2BCD298D3164005569EC /* Question.swift in Sources */,
 				18F3EE9D298BBED80049A2AA /* AppDelegate.swift in Sources */,
 				18F3EE9F298BBED80049A2AA /* SceneDelegate.swift in Sources */,
 			);
